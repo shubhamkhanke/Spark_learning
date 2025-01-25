@@ -1,2 +1,2 @@
-# Spark_learning
+# Pyspark_learning
 Learning concept and perform practicals
